@@ -1,0 +1,2 @@
+# website
+ICP (static) website
