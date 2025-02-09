@@ -1,6 +1,6 @@
 # ICP Static website in an Asset Canister
 
-![]([https://github.com/SIGHTED-HEALTHCARE/admin-dashboard/blob/master/SIGHTEDHEALTHCAREadmindashboard-ezgif.com-video-to-gif-converter.gif](https://github.com/SIGHTED-HEALTHCARE/website/blob/main/SIGHTED_website_DEMO-ezgif.com-video-to-gif-converter%20(1).gif)
+![](https://github.com/SIGHTED-HEALTHCARE/website/blob/main/SIGHTED_website_DEMO-ezgif.com-video-to-gif-converter%20(1).gif) 
 
 ## Overview
 The example shows how to deploy a simple, static website on the IC in an asset canister. The website is very simple, it just shows the DFINITY logo and has a basic styling of the logo. 
