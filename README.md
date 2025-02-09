@@ -1,15 +1,12 @@
----
-keywords: [static website, basic website, html, host a website, beginner]
----
-
-# Static website
-
-[View this sample's code on GitHub](https://github.com/dfinity/examples/tree/master/hosting/static-website)
+# ICP Static website in an Asset Canister
 
 ## Overview
 The example shows how to deploy a simple, static website on the IC in an asset canister. The website is very simple, it just shows the DFINITY logo and has a basic styling of the logo. 
 
 ![Website](README_images/website.png)
+
+![](https://github.com/SIGHTED-HEALTHCARE/admin-dashboard/blob/master/SIGHTEDHEALTHCAREadmindashboard-ezgif.com-video-to-gif-converter.gif)
+
 
 The purpose of this example is to show how to deploy a static website in an asset canister. While the website in this example is very simple, the method would be the same for a more advanced static website, e.g. based on popular static site generators.
 
